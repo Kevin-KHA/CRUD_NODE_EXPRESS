@@ -1,6 +1,6 @@
 var mysql = require("mysql2")
 var con = mysql.createConnection({
-    host:'3.85.14.254',
+    host:'54.221.136.52',
     user:'kevinalvarado',
     password:'nocewe',
     database:'db_crude'
